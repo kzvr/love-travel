@@ -1,0 +1,31 @@
+:root {
+  --height-header: 102px;
+  --white-color: #fff;
+  --black-color: #000;
+  --text-color: #9a9a9a;
+  --header-background-color: rgba(0, 0, 0, 0.2);
+  --background-color: #14b9d5;
+  --title-color: #555;
+  --background-yellow: linear-gradient(to right, #ffd205 0%, #ff9b05 100%);
+  --background-red: linear-gradient(to right, #f76570 0%, #f78d65 100%);
+  --background-purple: linear-gradient(to right, #ba71da 0%, #da717b 100%);
+  --background-green: linear-gradient(to right, #1bbc9b 0%, #1bbc63 100%);
+  --background-orange: linear-gradient(to right, #f3a46b 0%, #f3c96b 100%);
+  
+}
+
+* {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  letter-spacing: 1px;
+}
+
